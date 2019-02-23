@@ -1,0 +1,4 @@
+[submodule "html/wp-content/themes/kevpress"]
+	path = html/wp-content/themes/kevpress
+	url = git@github.com:kvnol/kevpress.git
+	branch = dev
